@@ -13,3 +13,8 @@ This project is an AI Chinese Translation for the steam game Star Knightess Aura
 
 3.将游戏文件拖动到install.bat上，并等待它运行完成
 <img width="487" height="375" alt="屏幕截图 2026-10-24 154129" src="https://github.com/user-attachments/assets/94b96780-fd26-4310-ad4c-37e9a6c535b0" />
+
+4.进入游戏后，找到option，在设置里English换成简体中文，显示翻译进度0.00%是正常现象
+<img width="703" height="478" alt="image" src="https://github.com/user-attachments/assets/c18f580b-57a7-4f7a-9429-97955520bf63" />
+
+5.需要注意的是，现在汉化的只有99%的对话，菜单界面并没有完全汉化
