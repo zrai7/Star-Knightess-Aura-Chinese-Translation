@@ -1,4 +1,4 @@
 # Star-Knightess-Aura-Chinese-Translation
-This project is an AI Chinese Translation for the steam game Star Knightess Aura. Still making...
+This project is an AI Chinese Translation for the steam game Star Knightess Aura. 
 
-这是一个星骑士奥拉的AI汉化补丁，正在制作当中...
+这是一个星骑士奥拉的AI汉化补丁
